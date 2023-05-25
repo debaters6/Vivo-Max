@@ -3093,5 +3093,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "spider": "./wudalang/TYU.jar"
+    "spider": "./jar/TYU.jar"
 }
