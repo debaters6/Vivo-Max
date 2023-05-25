@@ -353,6 +353,39 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_appys_如意4K",
+            "name": "❤如意影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/",
+            "playUrl": "json:https://jx.4kdv.com/?url=",
+            "jar": "./jar/TYU.jar"
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "❤柒柒🐔",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/TYU.jar"
+        },
+        {
+            "key": "csp_appys_酷影",
+            "name": "❤酷影📽",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/",
+            "jar": "./jar/TYU.jar"
+        },
+        {
             "key": "csp_WoGG",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
@@ -433,36 +466,6 @@
                 "伦理片"
             ],
             "jar": "./jar/jnlzv.jar"
-        },
-        {
-            "key": "csp_appys_如意4K",
-            "name": "❤如意影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "playUrl": "json:https://jx.4kdv.com/?url="
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "❤柒柒🐔",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_appys_酷影",
-            "name": "❤酷影📽",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
         },
         {
             "key": "本地",
