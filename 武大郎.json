@@ -10,7 +10,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "jar": "./jar/MHhv.jar"
+            "jar": "./MHhv.jar"
         },
         {
             "key": "哔哩哔哩",
@@ -20,8 +20,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Bili.json",
-            "jar": "./jar/YSC.jar"
+            "ext": "./Bili.json",
+            "jar": "./YSC.jar"
         },
         {
             "key": "相声小品",
@@ -31,8 +31,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Blixs.json",
-            "jar": "./jar/YSC.jar"
+            "ext": "./Blixs.json",
+            "jar": "./YSC.jar"
         },
         {
             "key": "戏 曲",
@@ -42,8 +42,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Blixq.json",
-            "jar": "./jar/YSC.jar"
+            "ext": "./Blixq.json",
+            "jar": "./YSC.jar"
         },
         {
             "key": "歌曲MV",
@@ -53,8 +53,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/gequ.txt",
-            "jar": "./jar/YSC.jar"
+            "ext": "./gequ.txt",
+            "jar": "./YSC.jar"
         },
         {
             "key": "csp_AppYsV2_如意",
@@ -67,7 +67,7 @@
             "playerType": 1,
             "playurl": "json:https://jx.4kdv.com/?url=",
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "jar": "./jar/MHhv.jar"
+            "jar": "./MHhv.jar"
         },
         {
             "key": "csp_AppYsV2_多米蓝光",
@@ -79,7 +79,7 @@
             "filterable": 1,
             "playerType": 1,
             "ext": "http://v.dmdh.top:5680/api.php/app/",
-            "jar": "./jar/MHhv.jar"
+            "jar": "./MHhv.jar"
         },
         {
             "key": "csp_AppYsV2_555",
@@ -90,7 +90,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://555dy3.com/api.php/app/",
-            "jar": "./jar/MHhv.jar"
+            "jar": "./MHhv.jar"
         },
         {
             "key": "LiteApple",
@@ -101,7 +101,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 1,
-            "jar": "./jar/MHhv.jar"
+            "jar": "./MHhv.jar"
         },
         {
             "key": "LIB_",
@@ -111,8 +111,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/tmHr.txt",
-            "jar": "./jar/bcAE.jar"
+            "ext": "./tmHr.txt",
+            "jar": "./bcAE.jar"
         },
         {
             "key": "csp_XYQHiker_北川影视",
@@ -122,8 +122,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/北川影视.json",
-            "jar": "./jar/bcAE.jar"
+            "ext": "./KnWZ.txt",
+            "jar": "./bcAE.jar"
         },
         {
             "key": "csp_XYQHiker_慢大浪影视",
@@ -133,8 +133,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/慢大浪.json",
-            "jar": "./jar/bcAE.jar"
+            "ext": "./hjmR.txt",
+            "jar": "./bcAE.jar"
         },
         {
             "key": "量子",
@@ -179,7 +179,7 @@
                 "网球",
                 "斯诺克"
             ],
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "非凡",
@@ -219,7 +219,7 @@
                 "港台动漫",
                 "海外动漫"
             ],
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "巴士",
@@ -228,7 +228,7 @@
             "api": "csp_Dm84",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "異界",
@@ -237,7 +237,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "土狗",
@@ -246,7 +246,7 @@
             "api": "csp_TuGou",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "FOX资源",
@@ -361,8 +361,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "playUrl": "json:https://jx.4kdv.com/?url=",
-            "jar": "./jar/TYU.jar"
+            "playUrl": "json:https://jx.4kdv.com/?url="
         },
         {
             "key": "csp_Kunyu77",
@@ -371,8 +370,7 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/TYU.jar"
+            "filterable": 1
         },
         {
             "key": "csp_appys_酷影",
@@ -382,8 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/",
-            "jar": "./jar/TYU.jar"
+            "ext": "http://kuyun.realku.cn/api.php/app/"
         },
         {
             "key": "csp_WoGG",
@@ -394,7 +391,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./token.txt",
-            "jar": "./jar/fan.jar"
+            "jar": "./fan.jar"
         },
         {
             "key": "csp_BuLei",
@@ -405,7 +402,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122",
-            "jar": "./jar/fan.jar"
+            "jar": "./fan.jar"
         },
         {
             "key": "雲搜",
@@ -414,7 +411,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "盤搜",
@@ -423,7 +420,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "盤搜索",
@@ -432,7 +429,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "找資源",
@@ -453,7 +450,7 @@
             "categories": [
                 "伦理片"
             ],
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "非凡",
@@ -465,8 +462,9 @@
             "categories": [
                 "伦理片"
             ],
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
+
         {
             "key": "本地",
             "name": "❤本地",
@@ -474,7 +472,7 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "./jar/jnlzv.jar"
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "AList",
@@ -483,8 +481,8 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./json/alist.jaon",
-            "jar": "./jar/jnlzv.jar"
+            "ext": "./3XG2JH8KW.txt",
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "WebDAV",
@@ -493,8 +491,8 @@
             "api": "csp_WebDAV",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./json/3G3J66EFZ.txt",
-            "jar": "./jar/jnlzv.jar"
+            "ext": "./3G3J66EFZ.txt",
+            "jar": "./jnlzv.jar"
         },
         {
             "key": "push_agent",
@@ -604,7 +602,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://qu.ax/sEYA.png",
+            "url": "./sEYA.png",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
@@ -3093,5 +3091,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "spider": "./wudalang/TYU.jar"
+    "spider": "./TYU.jar"
 }
