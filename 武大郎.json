@@ -361,8 +361,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "playUrl": "json:https://jx.4kdv.com/?url=",
-           "jar": "./jar/TYU.jar"
+            "playUrl": "json:https://jx.4kdv.com/?url="           
         },
         {
             "key": "csp_Kunyu77",
@@ -371,8 +370,7 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/TYU.jar"
+            "filterable": 1
         },
         {
             "key": "csp_appys_酷影",
@@ -382,8 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/",
-            "jar": "./jar/TYU.jar"
+            "ext": "http://kuyun.realku.cn/api.php/app/"  
         },
         {
             "key": "csp_WoGG",
